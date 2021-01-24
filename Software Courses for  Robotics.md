@@ -28,11 +28,12 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
    - [SLAM and localaztion](https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc)
    - [Localization, Navigation and SLAM  in ROS 
 ](https://www.udemy.com/course/ros-navigation/)
-   - [Sensor Fusion Engineer (Full Path)](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313)
+   - [Vision, Planning and Control in Aerial Robotics](https://cmsc828t.github.io/)
 
   ### Path planning & loclazation
    - [What is Path planning for Robotics?](https://www.youtube.com/watch?v=Yse_YDpmsBM) 
-   - [DeePath planning & loclazationp Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) 
+   - [Robot Navigation in ROS
+](https://www.theconstructsim.com/robot-navigation-learning-path/) 
    - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
    - [Robotics: Vision Intelligence and Machine Learning
 ](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
