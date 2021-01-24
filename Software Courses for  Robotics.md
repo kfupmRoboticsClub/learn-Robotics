@@ -40,17 +40,11 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
 ](https://www.udemy.com/course/autonomous-robots-path-planning/?src=sac&kw=robot+path)
 
    ### Programming languages for robotics
-   - [What is Path planning for Robotics?](https://www.youtube.com/watch?v=Yse_YDpmsBM) 
-   - [Robot Navigation in ROS
-](https://www.theconstructsim.com/robot-navigation-learning-path/) 
-   - [Vision, Planning and Control in Aerial Robotics](https://cmsc828t.github.io/)
-   - [Autonomous Robots: Path Planning
-](https://www.udemy.com/course/autonomous-robots-path-planning/?src=sac&kw=robot+path)
- 
-### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
- - ROS
- - AI for Robotics
- - Path planning & loclazation 
- - Mapping
- - Programming languages for robotics 
-  
+   - [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) 
+   - [C++ Programming - From Beginner to Beyond
+](https://www.udemy.com/course/beginning-c-plus-plus-programming/) 
+   - [C++ For Programmers
+](https://cmsc828t.github.io/)
+   - [Drone Programming with Python - Face Recognition & Tracking
+](https://www.udemy.com/course/drone-programming-with-python-face-recognition-tracking/?src=sac&kw=face+recognition+dr)
+
