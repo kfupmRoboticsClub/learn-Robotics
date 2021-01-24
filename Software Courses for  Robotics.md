@@ -11,6 +11,15 @@ Resources  for Students who have non , moderate  or even advance skills in robot
    - [Self-Driving Cars
 with ROS and Autoware](https://www.apex.ai/autoware-course)
   
+  ### AI for Robotics
+   - [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) 
+   - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+   - [Robotics: Vision Intelligence and Machine Learning
+](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
+   - [Deep Learning (Full Path)](https://mithi.github.io/deep-blueberry/)
+   - [ Deep learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+
+
 ### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
  - ROS
  - AI for Robotics
