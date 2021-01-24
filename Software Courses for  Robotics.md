@@ -12,6 +12,8 @@ Resources  for Students who have non , moderate  or even advance skills in robot
 with ROS and Autoware](https://www.apex.ai/autoware-course)
   
   ### AI for Robotics
+  
+   - [What is AI for Robotics?](https://youtu.be/kWmX3pd1f10) 
    - [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) 
    - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
    - [Robotics: Vision Intelligence and Machine Learning
@@ -19,7 +21,25 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
    - [Deep Learning (Full Path)](https://mithi.github.io/deep-blueberry/)
    - [ Deep learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 
+ ### Mapping
+  
+   - [What is Mapping for Robotics?](https://youtu.be/wVsfCnyt5jA) 
+   - [SLAM for begineers](https://www.youtube.com/watch?v=B2qzYCeT9oQ&list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm) 
+   - [SLAM and localaztion](https://www.youtube.com/watch?v=V9qQc5X7O0k&list=PLgnQpQtFTOGQECnBvZSV61oxTrkPut-nc)
+   - [Localization, Navigation and SLAM  in ROS 
+](https://www.udemy.com/course/ros-navigation/)
+   - [Sensor Fusion Engineer (Full Path)](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313)
 
+  ### Path planning & loclazation
+   - [What is Path planning for Robotics?](https://www.youtube.com/watch?v=Yse_YDpmsBM) 
+   - [DeePath planning & loclazationp Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) 
+   - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+   - [Robotics: Vision Intelligence and Machine Learning
+](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
+   - [Deep Learning (Full Path)](https://mithi.github.io/deep-blueberry/)
+   - [ Deep learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+   
+   
 ### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
  - ROS
  - AI for Robotics
