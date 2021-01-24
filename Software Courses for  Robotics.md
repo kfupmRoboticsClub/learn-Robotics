@@ -34,12 +34,10 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
    - [What is Path planning for Robotics?](https://www.youtube.com/watch?v=Yse_YDpmsBM) 
    - [Robot Navigation in ROS
 ](https://www.theconstructsim.com/robot-navigation-learning-path/) 
-   - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
-   - [Robotics: Vision Intelligence and Machine Learning
-](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
-   - [Deep Learning (Full Path)](https://mithi.github.io/deep-blueberry/)
-   - [ Deep learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-   
+   - [Vision, Planning and Control in Aerial Robotics](https://cmsc828t.github.io/)
+   - [Autonomous Robots: Path Planning
+](https://www.udemy.com/course/autonomous-robots-path-planning/?src=sac&kw=robot+path)
+
    
 ### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
  - ROS
