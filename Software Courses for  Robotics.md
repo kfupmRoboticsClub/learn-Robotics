@@ -20,6 +20,7 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
 ](https://www.edx.org/course/robotics-vision-intelligence-and-machine-learning)
    - [Deep Learning (Full Path)](https://mithi.github.io/deep-blueberry/)
    - [ Deep learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+   - [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
  ### Mapping
   
@@ -38,7 +39,14 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
    - [Autonomous Robots: Path Planning
 ](https://www.udemy.com/course/autonomous-robots-path-planning/?src=sac&kw=robot+path)
 
-   
+   ### Programming languages for robotics
+   - [What is Path planning for Robotics?](https://www.youtube.com/watch?v=Yse_YDpmsBM) 
+   - [Robot Navigation in ROS
+](https://www.theconstructsim.com/robot-navigation-learning-path/) 
+   - [Vision, Planning and Control in Aerial Robotics](https://cmsc828t.github.io/)
+   - [Autonomous Robots: Path Planning
+](https://www.udemy.com/course/autonomous-robots-path-planning/?src=sac&kw=robot+path)
+ 
 ### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
  - ROS
  - AI for Robotics
@@ -46,7 +54,3 @@ with ROS and Autoware](https://www.apex.ai/autoware-course)
  - Mapping
  - Programming languages for robotics 
   
-  ### [*Genaral Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/General%20Robotics%20Courses)
-   In this part we have listed down the coursses for the following sectors :
-  - Intro to Robotics
-  - Series of Courses (Path)
