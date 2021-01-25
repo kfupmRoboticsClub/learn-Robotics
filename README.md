@@ -19,7 +19,7 @@ This is a syllables to show how is the courses were categorized
    
  
   
-### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
+### [*Software for Robotics*](Software Courses for  Robotics.md)
  - ROS
  - AI for Robotics
  - Path planning & loclazation 
