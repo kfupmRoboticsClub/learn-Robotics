@@ -13,9 +13,9 @@ This is a syllables to show how is the courses were categorized
  ### [*Hardware for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Hardware%20Courses%20for%20Robotics)
   In this part we have listed down the coursses for the following sectors :
    - Mechanical Design (Solidworks,fusion360 ...etc)
-   - gf
-   -
-   -
+   - Sensors and actuators
+   - Locomotion
+   
  
   
 ### [*Software for Robotics*](https://github.com/kfupmRoboticsClub/learn-Robotics/blob/main/Software%20Courses%20for%20%20Robotics)
